@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
-import Store from './Cantina';
+import Store from './store';
+import NavigationBar from './NavigationBar';
 
-function App() {
+function App() { //main component that calls my store component
   return (
     <div className="App">
       <header className="App-header">
-        <Store></Store>
+         <Store></Store>
       </header>
     </div>
   );
