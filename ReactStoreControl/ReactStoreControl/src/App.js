@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Store from './store';
+import NavigationBar from './NavigationBar';
 
 function App() { //main component that calls my store component
   return (
