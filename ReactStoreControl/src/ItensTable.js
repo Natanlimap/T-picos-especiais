@@ -11,10 +11,10 @@ const TableHead = () => { //tableHeadComponent
     <thead>
       <tr>
         <th style = {thStyle} > ID </th>
-        <th style = {thStyle} > NOME </th>
-        <th style = {thStyle} > PREÇO</th>
-        <th style = {thStyle} > QUANTIDADE</th>
-        <th style = {thStyle} > Remove</th>
+        <th style = {thStyle} > NAME </th>
+        <th style = {thStyle} > PRICE</th>
+        <th style = {thStyle} > QUANTITY</th>
+        <th style = {thStyle} > REMOVE</th>
       </tr>
     </thead>
   );
