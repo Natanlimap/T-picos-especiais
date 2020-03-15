@@ -68,7 +68,7 @@ class Form extends Component {
             />
           </div>
           <div>
-            <label htmlFor="quant">Quantidade </label>
+            <label htmlFor="quant">Quantity   </label>
             <input
               id="quant"
               type="number"
